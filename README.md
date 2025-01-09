@@ -11,6 +11,5 @@
 
 <pre>
 Sandeep Bansal
-Sandeep Bansal
 The Johns Hopkins Marketing M.S Candidate
 </pre>
