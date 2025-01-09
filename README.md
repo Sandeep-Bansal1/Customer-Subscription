@@ -1,5 +1,5 @@
 <div align="center">
-  <h1><strong>The Retention Playbook: Unlocking Long-Term Subscriber Success</strong></h1>
+  <h2><strong>The Retention Playbook: Unlocking Long-Term Subscriber Success</strong></h2>
   <h3><em>Discover What Drives Loyalty and Keeps Subscribers Engaged</em></h3>
 </div>
 
