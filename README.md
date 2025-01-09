@@ -10,7 +10,7 @@
 ---
 
 <pre>
-Contributor  : Sandeep Bansal
-Languages    : Python
-Tools/IDE    : Anaconda
+Sandeep Bansal
+Sandeep Bansal
+The Johns Hopkins Marketing M.S Candidate
 </pre>
